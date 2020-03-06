@@ -1,0 +1,29 @@
+@charset"utf-8";
+@import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
+/* CSS Document */
+h1 {text-align:center;
+	color: #F8F7F7;
+	font-family: 'Teko', sans-serif;
+	font-size: 5em
+}
+p.alternativo {color: #ECE7E7;
+text-align-last: left;
+text-align: justify;
+font-family: 'Varela Round', sans-serif;
+font-size: 1.3em}
+.imagenalcentro{display: block;
+margin: auto;
+margin: auto;
+width: 45%;}
+p.noticias {color: #EFEFEF;
+text-align: justify;
+text-align: center;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 1.5em}
+a.direccion
+ {color: #EEFFEE;
+text-align: justify;
+text-align: center;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 1.5em}
